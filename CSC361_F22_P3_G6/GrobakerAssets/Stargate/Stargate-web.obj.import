@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Stargate-web.obj-3a1c4a501a03b5a5ef06a320f72bef88.mesh"
+
+[deps]
+
+files=[ "res://.import/Stargate-web.obj-3a1c4a501a03b5a5ef06a320f72bef88.mesh" ]
+
+source_file="res://GrobakerAssets/Stargate/Stargate-web.obj"
+dest_files=[ "res://.import/Stargate-web.obj-3a1c4a501a03b5a5ef06a320f72bef88.mesh", "res://.import/Stargate-web.obj-3a1c4a501a03b5a5ef06a320f72bef88.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

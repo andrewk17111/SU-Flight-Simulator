@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/barrels_rail.obj-b4874f216ada784d30a0dacd587bc8ab.mesh"
+
+[deps]
+
+files=[ "res://.import/barrels_rail.obj-b4874f216ada784d30a0dacd587bc8ab.mesh" ]
+
+source_file="res://GrobakerAssets/SpaceKit/OBJ format/barrels_rail.obj"
+dest_files=[ "res://.import/barrels_rail.obj-b4874f216ada784d30a0dacd587bc8ab.mesh", "res://.import/barrels_rail.obj-b4874f216ada784d30a0dacd587bc8ab.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

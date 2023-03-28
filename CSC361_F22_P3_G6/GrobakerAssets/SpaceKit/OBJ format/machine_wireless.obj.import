@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/machine_wireless.obj-c1bb00cd1947c8cd600629e4443fbf25.mesh"
+
+[deps]
+
+files=[ "res://.import/machine_wireless.obj-c1bb00cd1947c8cd600629e4443fbf25.mesh" ]
+
+source_file="res://GrobakerAssets/SpaceKit/OBJ format/machine_wireless.obj"
+dest_files=[ "res://.import/machine_wireless.obj-c1bb00cd1947c8cd600629e4443fbf25.mesh", "res://.import/machine_wireless.obj-c1bb00cd1947c8cd600629e4443fbf25.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

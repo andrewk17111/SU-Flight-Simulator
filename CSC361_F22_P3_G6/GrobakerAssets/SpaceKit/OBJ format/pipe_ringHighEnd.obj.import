@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/pipe_ringHighEnd.obj-b86b68e65890956a55eb75cdb7f46199.mesh"
+
+[deps]
+
+files=[ "res://.import/pipe_ringHighEnd.obj-b86b68e65890956a55eb75cdb7f46199.mesh" ]
+
+source_file="res://GrobakerAssets/SpaceKit/OBJ format/pipe_ringHighEnd.obj"
+dest_files=[ "res://.import/pipe_ringHighEnd.obj-b86b68e65890956a55eb75cdb7f46199.mesh", "res://.import/pipe_ringHighEnd.obj-b86b68e65890956a55eb75cdb7f46199.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

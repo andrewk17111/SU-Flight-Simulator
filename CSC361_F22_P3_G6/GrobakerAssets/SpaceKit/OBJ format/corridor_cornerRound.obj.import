@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/corridor_cornerRound.obj-0ea845e9e43f3ed8d440aca93f51b8ff.mesh"
+
+[deps]
+
+files=[ "res://.import/corridor_cornerRound.obj-0ea845e9e43f3ed8d440aca93f51b8ff.mesh" ]
+
+source_file="res://GrobakerAssets/SpaceKit/OBJ format/corridor_cornerRound.obj"
+dest_files=[ "res://.import/corridor_cornerRound.obj-0ea845e9e43f3ed8d440aca93f51b8ff.mesh", "res://.import/corridor_cornerRound.obj-0ea845e9e43f3ed8d440aca93f51b8ff.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

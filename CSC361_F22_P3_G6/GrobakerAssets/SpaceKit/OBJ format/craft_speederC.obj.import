@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/craft_speederC.obj-3a61272b7567fe0989a50f07a10aa4a8.mesh"
+
+[deps]
+
+files=[ "res://.import/craft_speederC.obj-3a61272b7567fe0989a50f07a10aa4a8.mesh" ]
+
+source_file="res://GrobakerAssets/SpaceKit/OBJ format/craft_speederC.obj"
+dest_files=[ "res://.import/craft_speederC.obj-3a61272b7567fe0989a50f07a10aa4a8.mesh", "res://.import/craft_speederC.obj-3a61272b7567fe0989a50f07a10aa4a8.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

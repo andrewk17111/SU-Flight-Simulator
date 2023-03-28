@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/pipe_cross.obj-7222c0fd0cfde1b460c3cef0ccc412bc.mesh"
+
+[deps]
+
+files=[ "res://.import/pipe_cross.obj-7222c0fd0cfde1b460c3cef0ccc412bc.mesh" ]
+
+source_file="res://GrobakerAssets/SpaceKit/OBJ format/pipe_cross.obj"
+dest_files=[ "res://.import/pipe_cross.obj-7222c0fd0cfde1b460c3cef0ccc412bc.mesh", "res://.import/pipe_cross.obj-7222c0fd0cfde1b460c3cef0ccc412bc.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/platform_low.obj-50e6e896c7330bf31c9052de62c8cffd.mesh"
+
+[deps]
+
+files=[ "res://.import/platform_low.obj-50e6e896c7330bf31c9052de62c8cffd.mesh" ]
+
+source_file="res://GrobakerAssets/SpaceKit/OBJ format/platform_low.obj"
+dest_files=[ "res://.import/platform_low.obj-50e6e896c7330bf31c9052de62c8cffd.mesh", "res://.import/platform_low.obj-50e6e896c7330bf31c9052de62c8cffd.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

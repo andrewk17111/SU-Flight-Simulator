@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/terrain_roadStraight.obj-a420a1e6ddee481e84e6c94589752682.mesh"
+
+[deps]
+
+files=[ "res://.import/terrain_roadStraight.obj-a420a1e6ddee481e84e6c94589752682.mesh" ]
+
+source_file="res://GrobakerAssets/SpaceKit/OBJ format/terrain_roadStraight.obj"
+dest_files=[ "res://.import/terrain_roadStraight.obj-a420a1e6ddee481e84e6c94589752682.mesh", "res://.import/terrain_roadStraight.obj-a420a1e6ddee481e84e6c94589752682.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

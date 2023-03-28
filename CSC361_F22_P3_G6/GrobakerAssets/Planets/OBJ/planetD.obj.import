@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/planetD.obj-4cbc1cbfb9ecceee9b1cb2b3ed52186f.mesh"
+
+[deps]
+
+files=[ "res://.import/planetD.obj-4cbc1cbfb9ecceee9b1cb2b3ed52186f.mesh" ]
+
+source_file="res://GrobakerAssets/Planets/OBJ/planetD.obj"
+dest_files=[ "res://.import/planetD.obj-4cbc1cbfb9ecceee9b1cb2b3ed52186f.mesh", "res://.import/planetD.obj-4cbc1cbfb9ecceee9b1cb2b3ed52186f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

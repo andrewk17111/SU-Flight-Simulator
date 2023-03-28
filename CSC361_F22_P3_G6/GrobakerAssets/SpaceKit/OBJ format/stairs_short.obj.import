@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/stairs_short.obj-19f7b303f99c423cdf51a4ffbbaa798f.mesh"
+
+[deps]
+
+files=[ "res://.import/stairs_short.obj-19f7b303f99c423cdf51a4ffbbaa798f.mesh" ]
+
+source_file="res://GrobakerAssets/SpaceKit/OBJ format/stairs_short.obj"
+dest_files=[ "res://.import/stairs_short.obj-19f7b303f99c423cdf51a4ffbbaa798f.mesh", "res://.import/stairs_short.obj-19f7b303f99c423cdf51a4ffbbaa798f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

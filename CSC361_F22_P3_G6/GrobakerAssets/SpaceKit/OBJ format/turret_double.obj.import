@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/turret_double.obj-12391bb62113fe2c57366307ae5e3856.mesh"
+
+[deps]
+
+files=[ "res://.import/turret_double.obj-12391bb62113fe2c57366307ae5e3856.mesh" ]
+
+source_file="res://GrobakerAssets/SpaceKit/OBJ format/turret_double.obj"
+dest_files=[ "res://.import/turret_double.obj-12391bb62113fe2c57366307ae5e3856.mesh", "res://.import/turret_double.obj-12391bb62113fe2c57366307ae5e3856.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

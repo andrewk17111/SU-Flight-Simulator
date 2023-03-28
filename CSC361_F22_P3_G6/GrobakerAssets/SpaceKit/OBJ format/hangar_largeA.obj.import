@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/hangar_largeA.obj-00fcc8a2045fa6e1a21b0055c444aefa.mesh"
+
+[deps]
+
+files=[ "res://.import/hangar_largeA.obj-00fcc8a2045fa6e1a21b0055c444aefa.mesh" ]
+
+source_file="res://GrobakerAssets/SpaceKit/OBJ format/hangar_largeA.obj"
+dest_files=[ "res://.import/hangar_largeA.obj-00fcc8a2045fa6e1a21b0055c444aefa.mesh", "res://.import/hangar_largeA.obj-00fcc8a2045fa6e1a21b0055c444aefa.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

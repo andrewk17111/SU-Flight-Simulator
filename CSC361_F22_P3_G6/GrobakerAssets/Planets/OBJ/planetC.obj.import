@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/planetC.obj-07358049051f0782c880cc2afc240e3a.mesh"
+
+[deps]
+
+files=[ "res://.import/planetC.obj-07358049051f0782c880cc2afc240e3a.mesh" ]
+
+source_file="res://GrobakerAssets/Planets/OBJ/planetC.obj"
+dest_files=[ "res://.import/planetC.obj-07358049051f0782c880cc2afc240e3a.mesh", "res://.import/planetC.obj-07358049051f0782c880cc2afc240e3a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286
